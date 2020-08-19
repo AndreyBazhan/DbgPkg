@@ -1,0 +1,7 @@
+@echo off
+
+call SetSymbolStore
+call SetLocalDumps
+call SetCompleteMemoryDump
+call SetCrashOnCtrlScroll
+call SetNoBugCheckAnalysis
