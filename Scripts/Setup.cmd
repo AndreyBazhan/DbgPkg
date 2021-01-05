@@ -1,7 +1,7 @@
 @echo off
 
-call SetSymbolStore
-call SetLocalDumps
-call SetCompleteMemoryDump
-call SetCrashOnCtrlScroll
-call SetNoBugCheckAnalysis
+call Set-SymbolStore
+call Set-LocalDumps
+call Set-CompleteMemoryDump
+call Set-CrashOnCtrlScroll
+call Set-NoBugCheckAnalysis

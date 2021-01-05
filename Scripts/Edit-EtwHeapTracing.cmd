@@ -20,10 +20,10 @@
 :Help
 
   @echo.
-  @echo Usage: EtwHeapTracing [-e ^| -d] ^<ProcessName.exe^>
+  @echo Usage: Edit-EtwHeapTracing [-e ^| -d] ^<ProcessName.exe^>
   @echo.
   @echo    -e    Enables heap tracing.
   @echo    -d    Disables heap tracing.
   @echo.
-  @echo Example: EtwHeapTracing -e Notepad.exe
-  @echo Example: EtwHeapTracing -d Notepad.exe
+  @echo Example: Edit-EtwHeapTracing -e Notepad.exe
+  @echo Example: Edit-EtwHeapTracing -d Notepad.exe
